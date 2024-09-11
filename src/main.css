@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.grl-dn__header__icon {
+    box-sizing: content-box;
+}
+
+body[data-theme="dark"] {
+    background: black;
+}
+
+body[data-theme="light"] {
+    background: white;
+}
